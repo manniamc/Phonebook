@@ -1,0 +1,21 @@
+Title : My phone Book
+
+Specification:
+
+	Language : PHP
+	Database : MySQL
+
+	Front End: HTML,CSS
+	
+Working:
+
+	1.You should save your Name and Mobile No.
+	2.It will be saved in Database.
+	3.It's mandotary to fill both text box.
+	4.Searching:
+		a) It Can be searched by Name.
+		b) It Can be searched by NUMBER.
+	5.According to Search Input, Output will be displayed.
+	
+	
+	--------------------THANK YOU----------------------------------------
